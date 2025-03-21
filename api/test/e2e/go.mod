@@ -6,7 +6,7 @@ require (
 	github.com/Nerzal/gocloak/v11 v11.2.0
 	github.com/PuerkitoBio/goquery v1.8.0
 	github.com/gavv/httpexpect/v2 v2.8.0
-	github.com/golang-jwt/jwt/v4 v4.4.3 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/klauspost/compress v1.15.13 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
